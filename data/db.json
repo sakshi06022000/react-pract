@@ -1,0 +1,132 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "name": "Ramesh",
+      "area": "chennai",
+      "contact": "988776655"
+    },
+    {
+      "id": 3,
+      "name": "mesh",
+      "area": "nnai",
+      "contact": "988776655"
+    },
+    {
+      "id": 4,
+      "name": "Rame",
+      "area": "bangolore",
+      "contact": "988776655"
+    },
+    {
+      "name": "gggg",
+      "area": "Mumbai",
+      "contact": "ggff",
+      "id": 5
+    },
+    {
+      "name": "fnjnxjwjwx",
+      "area": "Pune",
+      "contact": "cm mfv mf ",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "dfmfdfvtyu",
+      "area": "Chennai",
+      "contact": "fffmmm"
+    },
+    {
+      "name": "wewwwww",
+      "area": "Chennai",
+      "contact": "qawsedrf",
+      "id": 8
+    },
+    {
+      "id": 12,
+      "name": "sssss",
+      "area": "Mumbai",
+      "contact": "asdfg"
+    },
+    {
+      "id": 14,
+      "name": "mpp",
+      "area": "Mumbai",
+      "contact": "qqnwertyuio"
+    },
+    {
+      "name": "bebbfbf",
+      "area": "Chennai",
+      "contact": "hdhhdh",
+      "id": 15
+    },
+    {
+      "name": "asdh",
+      "area": "Chennai",
+      "contact": "23456",
+      "id": 16
+    }
+  ],
+  "register": [
+    {
+      "id": "admin",
+      "name": "admin",
+      "role": "admin",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "mobile": "7485963210",
+      "address": "ghjkl",
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "name": "vbnm,",
+      "role": "",
+      "email": "ghnm",
+      "password": "gbnm",
+      "mobile": "nm",
+      "address": "nm,",
+      "isActive": false
+    },
+    {
+      "id": "hnj",
+      "name": "bbbb",
+      "role": "",
+      "email": "bnm",
+      "password": "gbnh",
+      "mobile": "2345bbb",
+      "address": "bbb",
+      "isActive": false
+    },
+    {
+      "id": "abc",
+      "name": "abc",
+      "role": "",
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "mobile": "7418529",
+      "address": "sdfghjk",
+      "isActive": false
+    },
+    {
+      "id": "pqr",
+      "name": "pqr",
+      "role": "",
+      "email": "pqr@gmail.com",
+      "password": "pqr",
+      "mobile": "7412589630",
+      "address": "qwertyu",
+      "isActive": false
+    },
+    {
+      "id": "bhargu",
+      "name": "bhargu",
+      "role": "",
+      "email": "bharu@gmail.com",
+      "password": "123",
+      "mobile": "471523698",
+      "address": "sdfgvhbjn",
+      "isActive": false
+    }
+  ]
+}
